@@ -1,41 +1,19 @@
-/*body {*/
-/*    background: #222;*/
-/*    padding: 32px;*/
-/*}*/
-
 .card {
   background-color: white;
   padding: 32px;
   border-radius: 8px;
   width: 350px;
-}
-/* 
-@media (max-width: 450px) {
-  .card {
-    background-color: white;
-    padding: 32px;
-    border-radius: 8px;
-    width: 350px;
-  }
+  border-color: hsl(0, 0%, 90%);
+  border-style: solid;
 }
 
-@media (min-width: 450px) {
-  .card-desktop {
-    background-color: white;
-    padding: 32px;
-    border-radius: 8px;
-    width: 50%;
-    width: -moz-fit-content;
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 500px;
-    min-width: 500px;
-  }
-} */
 p {
   color: black;
   font-size: 1rem;
+}
+
+a:hover {
+  color: hsl(320, 40%, 50%);
 }
 
 h1 {

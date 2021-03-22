@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <InfoCard title="About Me &#128570;">
+        <InfoCard title="About Me &#128056;">
           Hey there, I'm Anthony Scardapane. A software engineer who loves to
           build things that are useful and make people happy. Currently working
           at <a href="https://vanguard.com">Vanguard</a> where I use Angular,
@@ -13,7 +13,7 @@ const App = () => {
           <strong> 4 years</strong> and feel extremely lucky to love it so much.
         </InfoCard>
         <div className="second-card"></div>
-        <InfoCard title="Other stuff &#128640;">
+        <InfoCard title="Other stuff &#129510;">
           Writing at{" "}
           <a href="https://eventuallyinteresting.net">Eventually Interesting</a>
           <br></br>
