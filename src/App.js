@@ -1,5 +1,6 @@
 import "./App.css";
 import InfoCard from "./info-card/info-card";
+import Footer from "./footer/footer";
 
 const App = () => {
   return (
@@ -26,6 +27,8 @@ const App = () => {
           <a href="https://github.com/a-scar">Github</a>
         </InfoCard>
       </header>
+
+      <Footer>© 2021 Anthony Scardapane. All Rights Reserved.</Footer>
     </div>
   );
 };
