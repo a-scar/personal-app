@@ -24,6 +24,11 @@ a {
   color: hsl(0, 0%, 100%);
 }
 
+.card-content {
+  align-items: center;
+  justify-content: center;
+}
+
 .App-link {
   color: #61dafb;
 }
